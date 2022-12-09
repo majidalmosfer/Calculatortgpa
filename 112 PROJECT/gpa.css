@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wraper{
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+}
+table{
+    row-gap: 20px;
+}
+th{
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+}
+td{
+    width: 100px;
+    margin: 50px;
+}
+body{
+    background-color: aqua;
+}
